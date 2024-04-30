@@ -1,1 +1,1 @@
-# musawerJalal-Stock-Predictions
+Stock-Predictions
